@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1  group-title="DEPORTES",  ADRENALINA SPORT
@@ -12,23 +11,23 @@ http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=7&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=8&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png"group-title="DEPORTES", TNT SPORTS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=9&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN MX
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  MX" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES", ESPN MX
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=10&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN AR
+#EXTINF:-1 tvg-id="" tvg-name="ESPN AR" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES", ESPN AR
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=16&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES", ESPN
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=17&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="DEPORTES", ESPN 2
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=18&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=19&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=37&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", ESPN 4 AR
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4 AR
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=167&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", DIRECT TV
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES", DIRECT TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=256&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=257&f=.m3u8
 #EXTINF:-1  group-title="DEPORTES", BEIN LA LIGA
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=23&f=.m3u8
@@ -44,180 +43,166 @@ http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=24&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=25&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 MX" tvg-logo="https://4.bp.blogspot.com/-D9RFOEZOH3A/W6louC7CdJI/AAAAAAAAAJA/zg96Hmgid1A96NgrbQpC0aZ9AgBjHeWIQCPcBGAYYCw/s1600/foxsports2mexico.png" group-title="DEPORTES", FOX SPORTS 2 MX
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=13&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Fox Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORT 3
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=248&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=3&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", T&C SPORT
+#EXTINF:-1 tvg-id="" tvg-name="T&C SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="DEPORTES", T&C SPORTS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=258&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", WIN SPORTS PLUS
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="DEPORTES", WIN SPORTS PLUS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=260&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg.png" group-title="DEPORTES", DAZN TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=199&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", TUDN HD
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES", TUDN
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="DEPORTES", TUDN HD
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=200&f=.m3u8
 #EXTINF:-1  group-title="DEPORTES",  DEPORTES
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES",  BEIN SPORTS XTRA
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="DEPORTES",  BEIN SPORTS XTRA
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://www.kindpng.com/picc/m/483-4833970_nba-tv-logo-free-png-hd-nba-tv.png" group-title="DEPORTES", NBA TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=125&f=.m3u8
-#EXTINF:-1  group-title="DEPORTES", Afizzionados
+#EXTINF:-1  tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1280px-Afizzionados_Logo.svg.png" group-title="DEPORTES", AFIZZIONADOS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=30&f=.m3u8
 
 
-***********************
-
-#EXTINF:-1  group-title="ENTRETENIMIENTO", SYFY
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://assets.stickpng.com/thumbs/584fc8cd6a5ae41a83ddee7e.png" group-title="ENTRETENIMIENTO", SYFY
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=58&f=.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO", UNIVERSAL REALITY
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=68&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", FX
+#EXTINF:-1 tvg-id=" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="ENTRETENIMIENTO", FX
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=70&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", GOLDEN EDGE
+#EXTINF:-1  tvg-id=" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="ENTRETENIMIENTO", GOLDEN EDGE
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=74&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", GOLDEN PREMIER
+#EXTINF:-1 tvg-id=" tvg-name="GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png" group-title="ENTRETENIMIENTO", GOLDEN PREMIER
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=75&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ENTRETENIMIENTO", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=76&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png" group-title="ENTRETENIMIENTO", AXN
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=78&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Universal Channel
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="ENTRETENIMIENTO", UNIVERSAL CHANNEL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=79&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="ENTRETENIMIENTO", STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=80&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", MULTI PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="MULTI PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/2560px-Multipremier_logo.svg.png" group-title="ENTRETENIMIENTO", MULTI PREMIER
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=81&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="ENTRETENIMIENTO", AMC
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=82&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", PARAMOUNT
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=83&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", CINE LATINO
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cine-latino_m.png" group-title="ENTRETENIMIENTO", CINE LATINO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=84&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", SAT
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="ENTRETENIMIENTO", I-SAT
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=86&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=91&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="ENTRETENIMIENTO", A&E
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=99&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1024px-TLC-Logo_2016.svg.png" group-title="ENTRETENIMIENTO", TLC
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=100&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", !E
+#EXTINF:-1 tvg-id="" tvg-name="!E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/309px-E%21_Logo.svg.png" group-title="ENTRETENIMIENTO", !E
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=103&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", LifeTime
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="ENTRETENIMIENTO", LIFETIME
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=104&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TBS
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="ENTRETENIMIENTO", TBS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=105&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO", EL GOURMET
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=106&f=.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO", D PELICULAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=107&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", LasEstrellas
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO", Las Estrellas
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=108&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=167&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", HBO POP
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="ENTRETENIMIENTO", HBO POP
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=36&f=.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO", DPELICULA
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=38&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="ENTRETENIMIENTO", SPACE
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=39&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", WARNER BRO TV
+#EXTINF:-1 tvg-id="" tvg-name="WARNER BRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="ENTRETENIMIENTO", WARNER BRO TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=40&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=41&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="ENTRETENIMIENTO", STAR CHANNEL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=42&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="ENTRETENIMIENTO", CINEMAX
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=43&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="ENTRETENIMIENTO", CINECANAL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=44&f=.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO", CLIC
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=127&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Discovery SCI
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/819px-Discovery_Science_logo.svg.png" group-title="ENTRETENIMIENTO", DISCOVERY SCI
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=139&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", NFL NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/c3/NFL-Network-Logo.svg/1280px-NFL-Network-Logo.svg.png" group-title="ENTRETENIMIENTO", NFL NETWORK
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=151&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="ENTRETENIMIENTO", TCM
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=152&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENTRETENIMIENTO", HBO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=138&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="ENTRETENIMIENTO", TNT
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=214&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", SONY
+#EXTINF:-1  tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="ENTRETENIMIENTO", SONY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=266&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  GOLDEN
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1280px-Canal_Golden_logo.svg.png" group-title="ENTRETENIMIENTO",  GOLDEN
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=409&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  GOLDEN +
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1280px-Canal_Golden_logo.svg.png" group-title="ENTRETENIMIENTO",  GOLDEN +
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=406&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="ENTRETENIMIENTO",  GOLDEN EDGE
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=407&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  GOLDEN PLUS
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://www.nicepng.com/ourpic/u2e6y3y3q8e6i1y3_golden-plus-golden-plus-logo-png/" group-title="ENTRETENIMIENTO",  GOLDEN PLUS
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=410&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TL Novela Univision
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELA UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="ENTRETENIMIENTO", TL NOVELA UNIVISION
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=336&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", GLITZ
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="ENTRETENIMIENTO", GLITZ
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=339&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", WANNER TV
+#EXTINF:-1 tvg-id="" tvg-name="WANNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/1113px-Warner_TV_logo.svg.png" group-title="ENTRETENIMIENTO", WANNER TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=341&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  COMEDY TV
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png" group-title="ENTRETENIMIENTO",  COMEDY TV
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  Canal 5 MX
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Canal_5_Mexico_%282016%29.svg/revision/latest?cb=20220202043853" group-title="ENTRETENIMIENTO",  CANAL 5 MX
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest?cb=20220330053543" group-title="ENTRETENIMIENTO",  DISTRITO COMEDIA
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  DPELICULAS
+#EXTINF:-1 tvg-id="" tvg-name="DPELICULAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/DPelículaClásico_2021.svg/revision/latest?cb=20210128110405" group-title="ENTRETENIMIENTO",  DPELICULAS
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",  DPELICULAS +
+#EXTINF:-1 tvg-id="" tvg-name="DPELICULAS +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/DPelícula_2021.svg/revision/latest?cb=20210123063504" group-title="ENTRETENIMIENTO",  DPELICULAS +
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
-EXTINF:-1  group-title="ENTRETENIMIENTO",  UNICABLE
+EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest?cb=20200320185458" group-title="ENTRETENIMIENTO",  UNICABLE
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Willax
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Willax_TV_2014.svg/revision/latest?cb=20200407152050" group-title="ENTRETENIMIENTO", WILLAX
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=153&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Revolt
+#EXTINF:-1 tvg-id="" tvg-name="REVOLT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Revolt_2020.svg/revision/latest?cb=20210726151020" group-title="ENTRETENIMIENTO", REVOLT
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=154&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIMAS
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/UniMás_%282021%29.svg/revision/latest?cb=20211116224458" group-title="ENTRETENIMIENTO", UNIMAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=179&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", RCN NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png/revision/latest?cb=20191226224137" group-title="ENTRETENIMIENTO", RCN NOVELAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=190&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", RCN
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/RCNNoticias2019.PNG/revision/latest?cb=20200531202944" group-title="ENTRETENIMIENTO", RCN
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=193&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", CanalN
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest?cb=20220505150309" group-title="ENTRETENIMIENTO", CANAL N
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=197&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo=L"https://upload.wikimedia.org/wikipedia/commons/2/23/Wowtv.svg.png" group-title="ENTRETENIMIENTO", WOW TV
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Wowtv.svg.png" group-title="ENTRETENIMIENTO", WOW TV
 https://regioplay.xyz/php/SR_REGIO_428022_/wowtv.php?f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Latina
+#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Latina_TV_2019.svg/revision/latest?cb=20210524134322" group-title="ENTRETENIMIENTO", LATINA
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=4&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AmericaTV
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/América_TV_logo.svg/revision/latest?cb=20200801162239" group-title="ENTRETENIMIENTO", AMERICA TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=5&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest?cb=20211030204637" group-title="ENTRETENIMIENTO", TELEFE
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=45&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", EL TRECE
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Logoc13arginternacional2017.png/revision/latest?cb=20170816113401" group-title="ENTRETENIMIENTO", EL TRECE
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=46&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Pasiones
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Pasiones2015.png/revision/latest?cb=20170518201426" group-title="ENTRETENIMIENTO", PASIONES
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=51&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Azteca Uno
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Azteca_Uno_%282020%29.svg/revision/latest?cb=20210425072901" group-title="ENTRETENIMIENTO", AZTECA UNO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=52&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", AzMundo
+#EXTINF:-1 tvg-id="" tvg-name="AZMUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TV_Azteca_Mundo_logo_2022.png/revision/latest?cb=20220327230239" group-title="ENTRETENIMIENTO", AZMUNDO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=53&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Cinema Inolvidable
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=54&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", TL NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Tlnovelas_%282019%29.svg/revision/latest?cb=20201113003705" group-title="ENTRETENIMIENTO", TL NOVELAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=56&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", Canal Estrellas
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ESTELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Las_Estrellas.svg/revision/latest?cb=20160901195852" group-title="ENTRETENIMIENTO", CANAL ESTRELLAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=57&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", ATV
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ATV_Web_2020.svg/revision/latest?cb=20210522020920" group-title="ENTRETENIMIENTO", ATV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=61&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", UNICABLE
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=63&f=.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO", UNIMAS
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=64&f=.m3u8
 #EXTINF:-1  group-title="ENTRETENIMIENTO", IMAGEN TV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=65&f=.m3u8
-
-
-
-**********************
 
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="INFANTILES", CARTOON NETWORK
@@ -240,10 +225,31 @@ http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=117&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=109&f=.m3u8
 #EXTINF:-1  tvg-iD="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Boing_Logo.svg.png" group-title="INFANTILES", BOING
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=119&f=.m3u8
-#EXTINF:-1  group-title="INFANTILES", BITME
+#EXTINF:-1 tvg-iD="" tvg-name="BITME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/BitMe_logo.svg/revision/latest?cb=20211015235403" group-title="INFANTILES", BITME
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=131&f=.m3u8
 
-****************
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="CULTURALES", ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CULTURALES", DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURALES", DISCOVERY WORLD
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=102&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CULTURALES", DISCOVERY SCIENCE
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=230&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURALES", DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CULTURALES", DISCOVERY H&H
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=229&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES", ID INVESTIGATION DISCOVERY
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=98&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="CULTURALES", HISTORY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=49&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURALES", HISTORY 2
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=50&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://assets.stickpng.com/thumbs/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURALES", NAT GEO
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=92&f=.m3u8
+
 
 
 #EXTINF:-1tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-73@2x.png" group-title="NOTICIAS", TELEMUNDO NY
@@ -266,32 +272,26 @@ http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=316&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=317&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="NOTICIAS", CARACOL
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=259&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", CANAL 11
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20190605164626" group-title="NOTICIAS", CANAL 11
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=132&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", NET TV
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest?cb=20181231230522" group-title="NOTICIAS", NET TV
 http://regioplay.xyz/php/SR_REGIO_428022_/nettv.php?f=.m3u8
-
-
-#EXTINF:-1 group-title="NOTICIAS", ADN40
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Adn40_2022.png/revision/latest?cb=20220731051815" group-title="NOTICIAS", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="NOTICIAS", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1  group-title="NOTICIAS", RT NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Ritn2.png/revision/latest?cb=20190821222024" group-title="NOTICIAS", RT NOTICIAS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=67&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS",  EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Euronews_2016_Stacked_%28Print%29.svg/revision/latest?cb=20171201110719"  group-title="NOTICIAS",  EURONEWS
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", TOROS
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Toros.svg/revision/latest?cb=20171026161818" group-title="NOTICIAS", TOROS
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=289&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", NOVA
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Nova.svg/revision/latest?cb=20200629080554" group-title="NOTICIAS", NOVA
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=298&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS",  CNN COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Logotipo_de_CNN_en_Español_25_Años.png/revision/latest?cb=20220426184558" group-title="NOTICIAS",  CNN COLOMBIA
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", GALAVISION
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Galavisión_logo_2012.svg/revision/latest?cb=20121108233652" group-title="NOTICIAS", GALAVISION
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=238&f=.m3u8
-#EXTINF:-1  group-title="NOTICIAS", CGTN ESPANOL
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=118&f=.m3u8
 
-********************
+
 
 #EXTINF:-1  group-title="CINE",  CINE 1
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
@@ -339,67 +339,42 @@ https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=casa-
 https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=spanglish&f=.m3u8
 #EXTINF:-1  group-title="CINE" , Horrorfy
 https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
+#EXTINF:-1  group-title="CINE", Cinema Inolvidable
+http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=54&f=.m3u8
 
 
 
-*********************
 
-#EXTINF:-1  group-title="MUSICA",  VEVO
+#EXTINF:-1 tvg-id="" tvg-name="VEVO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest?cb=20160715061126" group-title="MUSICA",  VEVO
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  VEVO
+#EXTINF:-1 tvg-id="" tvg-name="VEVO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg/revision/latest?cb=20160715061126" group-title="MUSICA",  VEVO
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  BANDMAX
+#EXTINF:-1 tvg-id="" tvg-name="BANDMAX" tvg-logo="https://logos.fandom.com/wiki/Bandamax?file=Bandamax_2020_logo.svg" group-title="MUSICA",  BANDMAX
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  TELE MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="TELE MUSICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/M21-2004.png/revision/latest?cb=20200501035947" group-title="MUSICA",  TELE MUSICA
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  TELE MUSICA+
+#EXTINF:-1 tvg-id="" tvg-name="TELE MUSICA +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/M21-2004.png/revision/latest?cb=20200501035947" group-title="MUSICA",  TELE MUSICA+
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA",  TELE HIT
+#EXTINF:-1 tvg-id="" tvg-name="TELE HIT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/S73070_h3_aa20200915.png/revision/latest?cb=20200916022120" group-title="MUSICA",  TELE HIT
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", MTV CLASICC
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASICC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MTV_Classic.svg/revision/latest?cb=20170319123355" group-title="MUSICA", MTV CLASICC
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=121&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", TOP LATINO
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/TLTV2016.png/revision/latest?cb=20181231223442" group-title="MUSICA", TOP LATINO
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=123&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", MTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20220225163026" group-title="MUSICA", MTV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=87&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", MTV HIT
+#EXTINF:-1 tvg-id="" tvg-name="MTV HIT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/MTV_Hits_2021.svg/revision/latest?cb=20210914110741" group-title="MUSICA", MTV HIT
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=88&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", HTV
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/HTV_alt.png/revision/latest?cb=20201220223301" group-title="MUSICA", HTV
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=89&f=.m3u8
-#EXTINF:-1  group-title="MUSICA" , MMC
+#EXTINF:-1 tvg-id="" tvg-name="MMC" tvg-logo=" group-title="MUSICA" , MMC
 https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1  group-title="MUSICA", NICK MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/NickMusic_%28Purple%29.svg/revision/latest?cb=20220303225542" group-title="MUSICA", NICK MUSIC
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=331&f=.m3u8
 
-***************************
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="CULTURALES", ANIMAL PLANET
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=94&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CULTURALES", DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=95&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURALES", DISCOVERY WORLD
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=102&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CULTURALES", DISCOVERY SCIENCE
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=230&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CULTURALES", DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=96&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CULTURALES", DISCOVERY H&H
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=229&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CULTURALES", ID INVESTIGATION DISCOVERY
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=98&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="CULTURALES", HISTORY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=49&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURALES", HISTORY 2
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=50&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://assets.stickpng.com/thumbs/5a0c74bd9642de34b6b65cf5.png" group-title="CULTURALES", NAT GEO
-http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=92&f=.m3u8
-
-************************
-
-
-#EXTINF:-1  group-title="SERIES", DragonBallSuper24/7
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png"  group-title="SERIES", 24/7 | Dragon Ball Super
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=191&f=.m3u8
 #EXTINF:-1  group-title="SERIES", DORAIMON 24/7
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=195&f=.m3u8
@@ -545,4 +520,3 @@ http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=352&pid=352&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
 #EXTINF:-1  group-title="SERIES",  Xh Derbez - Nosotros Los Guapos
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
-
