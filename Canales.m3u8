@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
+http://regioplay.xyz/sr_regioooooo.php
+#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
+http://regioplay.xyz/sr_regioooooo.php
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
+http://regioplay.xyz/sr_regioooooo.php
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://regioplay.xyz/sr_regioooooo.php
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
+http://regioplay.xyz/sr_regioooooo.php
+
+#EXTINF:-1 group-title="Regio Channel", :: REGIO CHANNEL :: (EVENTOS ESPECIALES)
+http://regioplay.xyz/php/SR_REGIO_209022_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="DEPORTES", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1  group-title="DEPORTES",  ADRENALINA SPORT
@@ -315,7 +328,7 @@ http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=451&pid=451&token=SrRegio&f=
 http://regioplay.xyz/php/SR_REGIO_428022_/tv1.php?c=196&f=.m3u8
 #EXTINF:-1  group-title="CINE",  RETRO PELI
 http://regioplay.xyz/php/SR_REGIO_428022_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
+#EXTINF:-1  group-title="CINE" , Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
 #EXTINF:-1  group-title="CINE" , Saber mas
 https://regioplay.xyz/php/SR_REGIO_428022_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
